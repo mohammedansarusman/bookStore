@@ -32,6 +32,10 @@ export default async function BooksListPage({ params }) {
         </div>
         <div className="w-full px-10 mt-5 font-light text-md">
           <p>{description}</p>
+<<<<<<< HEAD
+=======
+          
+>>>>>>> 8c51dff (test)
         </div>
       </div>
     </div>
